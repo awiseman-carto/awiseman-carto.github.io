@@ -5,6 +5,7 @@ h1 {
 	font-size: 30px;	
 }
 
+
 /* Navbar title */
 .navbar-default .navbar-brand {
   color: red;
@@ -22,3 +23,21 @@ h1 {
   height: 50px;
   line-height: 50px;    
 }
+
+
+/* Jumbotron adjustments  */
+
+.jumbotron {
+  padding-bottom: 10px;
+  margin-bottom: 25px;
+  margin-top: 15px;   
+  color: inherit;
+  background-color: #eee;
+}
+
+.jumbotron p {
+  font-size: 24px;
+  margin-top: 15px;     
+
+}
+

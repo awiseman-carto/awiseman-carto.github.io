@@ -4972,6 +4972,8 @@ a.badge:focus {
   margin-top: 15px;    
   font-size: 21px;
   font-weight: 200;
+  padding-right: 60px;
+    padding-left: 60px;    
 }
 .jumbotron > hr {
   border-top-color: #d5d5d5;
