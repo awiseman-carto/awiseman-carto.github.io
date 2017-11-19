@@ -1,0 +1,22 @@
+h1 {
+	color: #ff0000;
+	font-size: 30px;	
+}
+
+/* Navbar title */
+.navbar-default .navbar-brand {
+  color: red;
+  font-size: 40px;
+  padding: 0 15px;
+  height: 50px;
+  line-height: 50px;    
+}
+
+/* Navbar links */
+.navbar-default .navbar-nav > li > a {
+  color: blue;
+  font-size: 16px;
+  padding: 0 15px;
+  height: 50px;
+  line-height: 50px;    
+}
