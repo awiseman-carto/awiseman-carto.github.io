@@ -16,6 +16,7 @@ h1 {
   font-family: "adelle";
 }
 
+
 /* Navbar links */
 .navbar-default .navbar-nav > li > a {
   color: gray;
@@ -24,6 +25,14 @@ h1 {
   height: 60px;
   line-height: 60px;    
   font-family: "adelle";    
+}
+
+/* Navbar hover effects */
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    font-size: calc(70% +2vw);
 }
 
 
@@ -43,7 +52,8 @@ h1 {
   font-size: 24px;
   font-size: calc(60% + 1.25vw);    
   margin-top: 20px;
-  font-family: "adelle";    
+  font-family: "adelle";
+  color: gray;    
 
 }
 
@@ -51,7 +61,7 @@ h1 {
 
 .navbar-header .navbar-toggle {
   font-family: "adelle";
-  color: gray;
+  color: dimgray;
 
 }
 
@@ -83,5 +93,7 @@ h1 {
 
 body {
     font-family: "adelle", serif;
-    font-size: 15px;
+    color: #666;
 }
+
+
