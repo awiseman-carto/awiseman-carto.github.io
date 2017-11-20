@@ -9,7 +9,7 @@ h1 {
 /* Navbar title */
 .navbar-default .navbar-brand {
   color: gray;
-  font-size: 40px;
+  font-size: calc(70% + 2vw);    
   padding: 0 15px;
   height: 20px;
   line-height: 60px; 
@@ -41,6 +41,7 @@ h1 {
 
 .jumbotron p {
   font-size: 24px;
+  font-size: calc(60% + 1.25vw);    
   margin-top: 20px;
   font-family: "adelle";    
 
