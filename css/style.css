@@ -41,3 +41,26 @@ h1 {
 
 }
 
+/* Portfolio stuff */
+
+/*** Portfolio pieces ***/
+.portfolio-thumbnail {
+  background-color: #fff;
+  border-color: lightgray;
+  border-width: 2px;
+  width: 95%;
+}
+
+.portfolio-thumbnail:hover {
+  border-color: gray;
+}
+
+.portfolio-title {
+  font-weight: bold;
+}
+
+.portfolio-description {
+}
+
+.portfolio-image {
+}
