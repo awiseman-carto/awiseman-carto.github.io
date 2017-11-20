@@ -11,7 +11,7 @@ h1 {
   color: gray;
   font-size: 40px;
   padding: 0 15px;
-  height: 60px;
+  height: 20px;
   line-height: 60px; 
   font-family: "adelle";
 }
@@ -30,7 +30,8 @@ h1 {
 /* Jumbotron adjustments  */
 
 .jumbotron {
-  padding-bottom: 10px;
+  padding-bottom: 0px;
+    padding-top: 40px;
   margin-bottom: 25px;
   margin-top: 15px;   
   color: inherit;
@@ -40,7 +41,7 @@ h1 {
 
 .jumbotron p {
   font-size: 24px;
-  margin-top: 15px;
+  margin-top: 20px;
   font-family: "adelle";    
 
 }
@@ -50,6 +51,7 @@ h1 {
 .navbar-header .navbar-toggle {
   font-family: "adelle";
   color: gray;
+
 }
 
 /* Portfolio stuff */
@@ -74,4 +76,11 @@ h1 {
 }
 
 .portfolio-image {
+}
+
+/* Font adjustment */
+
+body {
+    font-family: "adelle", serif;
+    font-size: 15px;
 }
